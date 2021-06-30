@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Repair Center</string>
+    <string name="done" />
+    <string name="test">TEST</string>
+    <string name="Details">Details</string>
+    <string name="Title">Title</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="bar_code">Bar Code</string>
+    <string name="clients_list">Clients list</string>
+    <string name="phones_list">Phones list</string>
+    <string name="barcode">barcode</string>
+    <string name="descreption">Descreption</string>
+    <string name="imei_number">IMEI Number</string>
+    <string name="phone_model">Phone Model</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="description">description</string>
+    <string name="canceled">Canceled</string>
+    <string name="reparing_completed">Reparing completed</string>
+    <string name="repairing">Repairing</string>
+    <string name="client_details">Client details</string>
+    <string name="phone_details">phone details</string>
+    <string name="for_any_modifications_please_click_on_the_desired_item">for any modifications please click on the desired item</string>
+    <string name="delete_all">delete All</string>
+</resources>
